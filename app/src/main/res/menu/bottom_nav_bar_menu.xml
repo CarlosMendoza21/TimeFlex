@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Apps-->
+    <item
+        android:id="@+id/op_apps"
+        android:title="@string/op_apps"
+        android:icon="@drawable/ico_apps"/>
+    <!--Estadisticas-->
+    <item
+        android:id="@+id/op_estadisticas"
+        android:title="@string/op_estadisticas"
+        android:icon="@drawable/ico_estadisticas"/>
+    <!--notas-->
+    <item
+        android:id="@+id/op_notas"
+        android:title="@string/op_notas"
+        android:icon="@drawable/ico_notas"/>
+    <!--explorar-->
+    <item
+        android:id="@+id/op_explorar"
+        android:title="@string/op_explorar"
+        android:icon="@drawable/ico_explorar"/>
+    <!--social-->
+    <item
+        android:id="@+id/op_social"
+        android:title="@string/op_social"
+        android:icon="@drawable/ico_social"/>
+
+
+</menu>

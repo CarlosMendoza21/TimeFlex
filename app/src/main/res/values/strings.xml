@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TimeFlex</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="op_inicio">inicio</string>
+    <string name="op_perfil">Perfil</string>
+    <string name="op_configuracion">Configuración</string>
+    <string name="op_cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="op_apps">Apps</string>
+    <string name="op_estadisticas">Estadisticas</string>
+    <string name="op_notas">Notas</string>
+    <string name="op_explorar">Explorar</string>
+    <string name="op_social">Social</string>
+
+    <string name="txt_bienvenida">Bienvenido(a)</string>
+
+
+    <!--Registro-->
+    <string name="txtRegistro">Registro</string>
+    <string name="etNombre">Nombres(s)</string>
+    <string name="etCorreo">Correo</string>
+    <string name="etcontrasena">Contraseña</string>
+    <string name="etCcontrasena">Confirmar Contraseña</string>
+    <string name="btnRegistro">Registrar</string>
+
+
+    <!--Login-->
+    <string name="txtLogin">Login</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="txtNoCuenta">¿No tienes una cuenta?</string>
+    <string name="tvRegistrar">Registrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
